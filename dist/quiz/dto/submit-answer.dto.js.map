@@ -1,0 +1,1 @@
+{"version":3,"file":"submit-answer.dto.js","sourceRoot":"","sources":["../../../src/quiz/dto/submit-answer.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAAuD;AAEvD,MAAa,eAAe;IAE1B,MAAM,CAAU;IAGhB,aAAa,CAAU;IAIvB,mBAAmB,CAAU;CAC9B;AAVD,0CAUC;AARC;IADC,IAAA,0BAAQ,GAAE;;+CACK;AAGhB;IADC,IAAA,0BAAQ,GAAE;;sDACY;AAIvB;IAFC,IAAA,uBAAK,GAAE;IACP,IAAA,qBAAG,EAAC,CAAC,CAAC;;4DACsB"}
